@@ -9,7 +9,7 @@
 <h2>Preview do projeto 🚀</h2>
 
 <div align=center>
-  <img width="855" alt="Ignite Timer banner" src=".github/banner.png"/>
+  <img width="855" alt="Ignite Timer banner" src=".github/banner.gif"/>
 </div>
 
 <h2>Sobre 🕵️</h2>
@@ -48,7 +48,7 @@
   # Executar o projeto
   yarn dev
 ```
-<p>Após esses passos, abra http://localhost:3000 para visualizar o projeto rodando no seu navegador.</p>
+<p>Após esses passos, irá abrir uma página no seu navegador para visualizar o projeto rodando no seu navegador.</p>
 
 <h2>Como contribuir? 😍</h2>
 

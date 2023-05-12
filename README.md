@@ -1,42 +1,48 @@
-# ignite-timer<h1 align=center>
+<h1 align="center">
   ⏰ Ignite Timer ⏰
-</h2>
+</h1>
 
-<h3 align=center>
+<h3 align="center">
   Cronometrar suas tarefas ficou mais fácil.
 </h3>
 
-<h2>Preview do projeto 🚀</h2>
+## 📷 Preview do projeto
 
-<div align=center>
+<div align="center">
   <img width="855" alt="Ignite Timer banner" src=".github/banner.gif"/>
 </div>
 
-<h2>Sobre 🕵️</h2>
+## 🕵️ Sobre 
 
-<p>O Ignite Timer nada mais é que um projeto que permite ao usuário cronometrar as suas tarefas no dia a dia, além de permitir ver um histórico de todos as tarefas já realizadas.<p>
+O Ignite Timer nada mais é que um projeto que permite ao usuário cronometrar as suas tarefas no dia a dia, além de permitir ver um histórico de todos as tarefas já realizadas.
 
-<h2>Tecnologias utilizadas 🤯</h2>
+## 🚀 Tecnologias
 
-<ul>
-  <li><a target="_blank" href="https://vitejs.dev/">Vite</a></li>
-  <li><a target="_blank" href="https://react.dev/">React.JS</a></li>
-  <li><a target="_blank" href="https://www.typescriptlang.org/">TypeScript</a></li>
-  <li><a target="_blank" href="https://styled-components.com/docs/basics">Styled-components</a></li>
-  <li><a target="_blank" href="https://react-hook-form.com/">React Hook Form</a></li>
-  <li><a target="_blank" href="https://github.com/colinhacks/zod">Zod</a></li>
-  <li><a target="_blank" href="https://reactrouter.com/en/v6.3.0/getting-started/overview">React Router</a></li>
-  <li><a target="_blank" href="https://github.com/immerjs/immer">Immer</a></li>
-  <li><a target="_blank" href="https://date-fns.org/docs/Getting-Started">date-fns</a></li>
-</ul>
+✔ [Vite](https://vitejs.dev/)
+✔ [ReactJS](https://reactjs.org/)
+✔ [TypeScript](https://www.typescriptlang.org/)
+✔ [Styled Components](https://styled-components.com/docs)
+✔ [Phosphor Icons](https://phosphoricons.com/)
+✔ [date-fns](https://date-fns.org/docs/Getting-Started)
+✔ [React Hook Form](https://react-hook-form.com/)
+✔ [Zod](https://github.com/colinhacks/zod)
+✔ [React Router](https://reactrouter.com/en/v6.3.0/getting-started/overview)
+✔ [Immer](https://github.com/immerjs/immer)
 
-<h2>Requisitos de software 🔍</h2>
+## 🎨 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/nCeslCY32mG7newtwTpuks/Ignite-Timer-(Community)?node-id=11%3A599). É necessário ter conta no [Figma](https://www.figma.com/) para acessá-lo.
+
+
+## 🔍 Requisitos de software
 
 <li><a href="https://git-scm.com">Git</a></li>
 <li><a href="https://nodejs.org/en">Node.js</a></li>
 <li><a href="https://yarnpkg.com/">Yarn</a> ou <a href="https://www.npmjs.com/">NPM</a></li>
 
-<p>Para rodar o projeto, basta executar os seguintes comandos, em seu terminal com git</p>
+## ⚙ Configurações
+
+Para rodar o projeto, basta executar os seguintes comandos, em seu terminal com git
 
 ```bash
   # Faça um clone do repositório
@@ -48,32 +54,17 @@
   # Executar o projeto
   yarn dev
 ```
-<p>Após esses passos, irá abrir uma página no seu navegador para visualizar o projeto rodando no seu navegador.</p>
+Após esses passos, irá abrir uma página no seu navegador para visualizar o projeto rodando no seu navegador.
 
-<h2>Como contribuir? 😍</h2>
-
-<p>Além de marcar o repositório com uma ⭐, para aumentar sua visibilidade, você pode fazer um fork do projeto, executar os passos anteriores.</p>
-
-```bash
-# Dentro da pasta do seu fork, crie uma branch para fazer as alterações
-
-git checkout -b <sua-branch>
-
-# Faça suas alterações
-# ...
-
-# Faça um commit do que foi feito
-
-git add .
-git commit -m 'conte o que você fez'
-
-# Faça o push do que foi feito
-
-git push origin <sua-branch>
-```
-
-<h2>📝 Licença</h2>
+## 📝 Licença
 Esse projeto se encontra sob a licença <strong>MIT</strong>. Para mais informações, acesse o arquivo <strong>LICENSE</strong>.
 
-<hr>
-<p align=center>Made with 💜 by <a target="_blank" href="https://www.linkedin.com/in/leonardo-jorge-a88a561b6">Leonardo Jorge</a><p>
+<p align=center>Made with 💜 by Leonardo Jorge<p>
+<p align="left">
+    <a href="https://www.linkedin.com/in/leonardo-jorge-a88a561b6/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Leonardo Jorge" />
+    </a>
+    <a href="mailto:leonardoti4437@gmail.com" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Leonardo Jorge" />
+    </a>
+</p>

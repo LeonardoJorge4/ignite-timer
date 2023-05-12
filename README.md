@@ -19,14 +19,23 @@ O Ignite Timer nada mais é que um projeto que permite ao usuário cronometrar a
 ## 🚀 Tecnologias
 
 ✔ [Vite](https://vitejs.dev/)
+<br />
 ✔ [ReactJS](https://reactjs.org/)
+<br />
 ✔ [TypeScript](https://www.typescriptlang.org/)
+<br />
 ✔ [Styled Components](https://styled-components.com/docs)
+<br />
 ✔ [Phosphor Icons](https://phosphoricons.com/)
+<br />
 ✔ [date-fns](https://date-fns.org/docs/Getting-Started)
+<br />
 ✔ [React Hook Form](https://react-hook-form.com/)
+<br />
 ✔ [Zod](https://github.com/colinhacks/zod)
+<br />
 ✔ [React Router](https://reactrouter.com/en/v6.3.0/getting-started/overview)
+<br />
 ✔ [Immer](https://github.com/immerjs/immer)
 
 ## 🎨 Layout
@@ -59,8 +68,8 @@ Após esses passos, irá abrir uma página no seu navegador para visualizar o pr
 ## 📝 Licença
 Esse projeto se encontra sob a licença <strong>MIT</strong>. Para mais informações, acesse o arquivo <strong>LICENSE</strong>.
 
-<p align=center>Made with 💜 by Leonardo Jorge<p>
-<p align="left">
+<p>Made with 💜 by Leonardo Jorge<p>
+<p>
     <a href="https://www.linkedin.com/in/leonardo-jorge-a88a561b6/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Leonardo Jorge" />
     </a>
